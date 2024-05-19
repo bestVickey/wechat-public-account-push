@@ -15,7 +15,9 @@ const USER_CONFIG = {
 
   PROVINCE: '宁夏',
   CITY: '银川',
-  earthyLoveWords: true,
+  SWITCH: {
+    earthyLoveWords: true,
+  },
   customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2020-11-21' },
