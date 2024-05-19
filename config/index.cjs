@@ -22,11 +22,11 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '伟奇',
+      name: '屹玮',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oXYV36jhIzuh1jPawzcZ9xLvVQ88',
+      id: 'oXYV36s3FxyUs2ppmCvi2w8fzD_I',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'CCh2M7Vel6825NqMafYXJ52rreZy84OyRIQiwhb7cJ8',
+      useTemplateId: 'yOtSUtiLAXzURpAC3I8J5zqAYhQMio__M74gcfAyqOg',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-01',
       festivals: [
@@ -45,7 +45,7 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2022-11-21' },
+        { keyword: 'love_day', date: '2020-11-21' },
       ],
     },
   ],
