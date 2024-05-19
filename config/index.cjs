@@ -16,20 +16,17 @@ const USER_CONFIG = {
   PROVINCE: '宁夏',
   CITY: '银川',
   SWITCH: {
+    // 土味情话(彩虹屁), 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
     earthyLoveWords: true,
   },
-  customizedDateList: [
-        // 在一起的日子
-        { keyword: 'love_day', date: '2020-11-21' },
-      ],
   USERS: [
     {
       // 想要发送的人的名字
       name: '伟奇',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '2xujOQpOsnlbchMfqnPfL5xsyfc_CAXFQyswCbB2tqQ',
+      id: 'oXYV36jhIzuh1jPawzcZ9xLvVQ88',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'jbJNiIHETKYHWv61yIjap7RhiEQ_aTjlI2KrfAcHAQ8',
+      useTemplateId: '2xujOQpOsnlbchMfqnPfL5xsyfc_CAXFQyswCbB2tqQ',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-01',
       festivals: [
