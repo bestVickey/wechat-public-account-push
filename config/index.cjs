@@ -46,6 +46,7 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2020-11-21' },
+        { keyword: 'leave_day', date: '2024-6-22' },
       ],
     },
   ],
